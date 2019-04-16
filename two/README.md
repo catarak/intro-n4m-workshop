@@ -1,0 +1,1 @@
+This patch generates chords, from a root note input, and generates a sequence of chords within a given scale. Uses the [tonal npm library](http://danigb.github.io/tonal/). 

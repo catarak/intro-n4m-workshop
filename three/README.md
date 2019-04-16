@@ -1,0 +1,1 @@
+This patch pulls weather data from an API and uses it to generate MIDI notes, from the average temperature for the year.

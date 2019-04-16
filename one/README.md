@@ -1,0 +1,1 @@
+This patch uses the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) to generate MIDI notes.
