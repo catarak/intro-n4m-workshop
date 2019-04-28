@@ -8,6 +8,7 @@ Hello Maxers! This repository contains the examples created in the Node for Max 
 - [Three](https://github.com/catarak/n4m-workshop-expo-2019/blob/master/three/README.md): Generates MIDI notes using weather data. 
 
 ## Links and Further Reading
+- [Node for Max API Documentation](https://docs.cycling74.com/nodeformax/api/)
 - [Cycling '74 - Node for Max Intro](https://cycling74.com/articles/node-for-max-intro-%E2%80%93-let%E2%80%99s-get-started)
 - [Node for Max Repositories](https://cycling74.com/articles/node-for-max-repositories-mining-for-gold)
 - [Public APIs](https://github.com/toddmotto/public-apis)
