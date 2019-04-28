@@ -12,3 +12,4 @@ Hello Maxers! This repository contains the examples created in the Node for Max 
 - [Cycling '74 - Node for Max Intro](https://cycling74.com/articles/node-for-max-intro-%E2%80%93-let%E2%80%99s-get-started)
 - [Node for Max Repositories](https://cycling74.com/articles/node-for-max-repositories-mining-for-gold)
 - [Public APIs](https://github.com/toddmotto/public-apis)
+- Link to Standalone/M4L Guide
