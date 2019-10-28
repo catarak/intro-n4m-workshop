@@ -5,11 +5,13 @@ let b = 1;
 let c = -1;
 
 function nextFibonacci() {
-	if (a === 1836311903) {
-		a = 0;
-		b = 1;
-	}
-	c = a + b;
+	// to handle integer overflow
+	// i found this limit by trial and error
+	// if (a === 1836311903) {
+	//	 a = 0;
+	//	 b = 1;
+	// }
+	c = (a + b) % 12;
 	a = b;
 	b = c;
 	return a;
