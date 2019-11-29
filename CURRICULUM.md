@@ -1,16 +1,10 @@
 # Getting Started with Node For Max
 
 
-### **Author: Cassie Tarakajian**
-
-
-### **Date Created: October 2019 **
-
-
-### **Duration: 3 hours (2 hrs teaching, 1 hr open work time)**
-
-
-### **Target Audience: Adults, Basic Max familiarity, No JS experience**
+### Author: Cassie Tarakajian
+### Date Created: October 2019
+### Duration: 3 hours (2 hrs teaching, 1 hr open work time)
+### Target Audience: Adults, Basic Max familiarity, No JS experience
 
 
 ## DESCRIPTION
