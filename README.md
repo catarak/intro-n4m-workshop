@@ -1,6 +1,13 @@
-# Node For Max Workshop, Expo 2019
+# Getting Started with Node For Max Workshop
 
-Hello Maxers! This repository contains the examples created in the Node for Max workshop as part of Expo '74, 2019. 
+Hello Maxers! This repository contains the examples and curriculum for the Getting Started with Node for Max workshop.
+
+## Sessions
+* Expo '74, MASS MoCA, April 2019
+* IDM NYU, November 2019
+
+## Curriculum and Teaching Guide
+* [Curriculum](https://github.com/catarak/intro-n4m-workshop/blob/master/CURRICULUM.md)
 
 ## Examples
 - [One](https://github.com/catarak/n4m-workshop-expo-2019/blob/master/one/README.md): Generates MIDI using Fibonacci numbers.
